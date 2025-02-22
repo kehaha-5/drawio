@@ -23,7 +23,7 @@
           <mxGeometry x="-4" y="221" width="619" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0Wx0PgzZWX51oEMOdkHR-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3" y="323" width="543" height="336" as="geometry" />
+          <mxGeometry x="3" y="323" width="528" height="331" as="geometry" />
         </mxCell>
         <mxCell id="0Wx0PgzZWX51oEMOdkHR-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3" y="716" width="709" height="103" as="geometry" />
@@ -98,10 +98,22 @@
           <mxGeometry x="31" y="723" width="33" height="89" as="geometry" />
         </mxCell>
         <mxCell id="0Wx0PgzZWX51oEMOdkHR-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="92" y="723" width="569" height="83" as="geometry" />
+          <mxGeometry x="92" y="723" width="606" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="0Wx0PgzZWX51oEMOdkHR-37" value="MYSQL" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="116.5" y="728" width="60" height="73" as="geometry" />
+        <mxCell id="0Wx0PgzZWX51oEMOdkHR-37" value="MYSQL" style="shape=datastore;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="107" y="728" width="60" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="0Wx0PgzZWX51oEMOdkHR-39" value="员工信息" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="178" y="740" width="107" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Wx0PgzZWX51oEMOdkHR-40" value="供应商信息" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="298" y="740" width="116" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="0Wx0PgzZWX51oEMOdkHR-41" value="物品信息" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="428" y="740" width="121" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Wx0PgzZWX51oEMOdkHR-43" value="......" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="562" y="740" width="121" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
