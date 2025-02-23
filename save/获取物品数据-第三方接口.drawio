@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LHpP83h3TlTLteyzTE3w-1" value="第三方客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LHpP83h3TlTLteyzTE3w-1" value="第三方系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="98" width="92" height="42" as="geometry" />
         </mxCell>
         <mxCell id="LHpP83h3TlTLteyzTE3w-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
