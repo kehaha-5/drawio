@@ -16,7 +16,7 @@
         <mxCell id="LHpP83h3TlTLteyzTE3w-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="69" y="151" width="16" height="352" as="geometry" />
         </mxCell>
-        <mxCell id="LHpP83h3TlTLteyzTE3w-4" value="服务都" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LHpP83h3TlTLteyzTE3w-4" value="服务端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="242" y="98" width="92" height="42" as="geometry" />
         </mxCell>
         <mxCell id="LHpP83h3TlTLteyzTE3w-5" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
