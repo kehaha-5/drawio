@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qx5MMXyXuyL3dPPYO67F-1" value="服务启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="150" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qx5MMXyXuyL3dPPYO67F-8" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="qx5MMXyXuyL3dPPYO67F-2" target="qx5MMXyXuyL3dPPYO67F-3">
           <mxGeometry relative="1" as="geometry" />
@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qx5MMXyXuyL3dPPYO67F-5" value="服务访问" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="500" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qx5MMXyXuyL3dPPYO67F-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;endArrow=none;startFill=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qx5MMXyXuyL3dPPYO67F-6" target="qx5MMXyXuyL3dPPYO67F-3">
           <mxGeometry relative="1" as="geometry" />
@@ -44,6 +44,33 @@
         </mxCell>
         <mxCell id="qx5MMXyXuyL3dPPYO67F-15" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: consolas, Menlo, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, monospace; font-size: 13px; letter-spacing: 1px; text-align: start; white-space-collapse: preserve; background-color: rgb(243, 243, 243);&quot;&gt;filepder.lock.Lock()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qx5MMXyXuyL3dPPYO67F-16" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="100" as="sourcePoint" />
+            <mxPoint x="670" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qx5MMXyXuyL3dPPYO67F-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qx5MMXyXuyL3dPPYO67F-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="100" as="sourcePoint" />
+            <mxPoint x="220" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qx5MMXyXuyL3dPPYO67F-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539.5" y="100" as="sourcePoint" />
+            <mxPoint x="539.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qx5MMXyXuyL3dPPYO67F-19" value="docker启动服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qx5MMXyXuyL3dPPYO67F-20" value="curl 访问服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qx5MMXyXuyL3dPPYO67F-21" value="时间线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="60" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
