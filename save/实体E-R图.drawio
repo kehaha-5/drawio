@@ -334,7 +334,7 @@
         <mxCell id="tkXjFBQQrUAs-DRNz6bw-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tkXjFBQQrUAs-DRNz6bw-5" target="EDPaD9Az1uUJM7cs_bUE-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tkXjFBQQrUAs-DRNz6bw-5" value="存在" style="rhombus;whiteSpace=wrap;html=1;rotation=15;" vertex="1" parent="1">
+        <mxCell id="tkXjFBQQrUAs-DRNz6bw-5" value="拥有" style="rhombus;whiteSpace=wrap;html=1;rotation=15;" vertex="1" parent="1">
           <mxGeometry x="677" y="398" width="67" height="54" as="geometry" />
         </mxCell>
         <mxCell id="tkXjFBQQrUAs-DRNz6bw-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="tkXjFBQQrUAs-DRNz6bw-8" target="EDPaD9Az1uUJM7cs_bUE-89">
