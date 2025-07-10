@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="26.3.0">
   <diagram name="第 1 页" id="_61oIHkeZIlqxbDWfuMs">
-    <mxGraphModel>
+    <mxGraphModel dx="1034" dy="578" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D38cdnj81jvIeS2rxJfn-72" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112" y="397.5" width="205" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-73" value="管理中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="123" y="397.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-74" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="121" y="424.5" width="87" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-75" value="k8s-master-xx&lt;div&gt;tailscaled&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="440" width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-77" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="424.5" width="87" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-78" value="k8s-worker-xx&lt;div&gt;tailscaled&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="211" y="440" width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-79" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="377" width="211" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-80" value="IDC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="432" y="377" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-83" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="558" y="458" width="75" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-85" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494.5" y="382.5" width="75" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-86" value="tailscaled&lt;div&gt;exit-node&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="502" y="394.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-88" value="node-xx" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="565.5" y="464.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-90" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="237" width="205" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-91" value="网络组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="283" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-92" value="headscaled" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="270" width="87" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-93" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="270" width="87" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-94" value="derp&lt;div&gt;tailscaled&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="393.5" y="278" width="68" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-96" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="468" y="458" width="75" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="D38cdnj81jvIeS2rxJfn-97" value="node-xx" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475.5" y="464.5" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
